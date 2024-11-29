@@ -188,7 +188,7 @@
 		<dependency>
 		    <groupId>com.thoughtworks.xstream</groupId>
 		    <artifactId>xstream</artifactId>
-		    <version>1.4.7</version>
+		    <version>1.4.19</version>
 		</dependency>
 
         <!-- Test Dependencies (see https://tedvinke.wordpress.com/2013/12/17/mixing-junit-hamcrest-and-mockito-explaining-nosuchmethoderror/) -->
