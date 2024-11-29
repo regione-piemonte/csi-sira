@@ -78,7 +78,7 @@
         <gs.version>2.17-SNAPSHOT</gs.version>
         <freeemarker.version>2.3.18</freeemarker.version>
         <spring.version>5.1.13.RELEASE</spring.version>
-        <spring.security.version>5.1.8.RELEASE</spring.security.version>
+        <spring.security.version>5.2.10.RELEASE</spring.security.version>
 
         <!-- Testing -->
         <test.exclude.pattern>none</test.exclude.pattern>
